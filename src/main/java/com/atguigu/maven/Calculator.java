@@ -12,6 +12,10 @@ public class Calculator {
 
 		System.out.println("hot-fix-commit");
 
+		System.out.println("github-commit");
+
+		
+
 		return i + j;
 	}
 	
