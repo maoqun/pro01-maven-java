@@ -6,6 +6,8 @@ public class Calculator {
 
 		System.out.println("hello");
 
+		System.out.println("hot-fix");
+
 		return i + j;
 	}
 	
