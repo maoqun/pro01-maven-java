@@ -7,6 +7,7 @@ public class Calculator {
 		System.out.println("hello");
 
 		System.out.println("hot-fix");
+		System.out.println("hot-fix-commit");
 
 		return i + j;
 	}
