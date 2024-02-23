@@ -11,7 +11,7 @@ public class CalculatorTest{
 	
 	@Test
 	public void testSum(){
-		
+
 		// 1.创建Calculator对象
 		Calculator calculator = new Calculator();
 		
