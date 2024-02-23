@@ -10,6 +10,7 @@ public class Calculator {
 		System.out.println("master-1");
 
 
+		System.out.println("hot-fix-commit");
 
 		return i + j;
 	}
